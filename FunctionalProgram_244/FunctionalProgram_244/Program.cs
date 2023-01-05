@@ -11,7 +11,8 @@ namespace FunctionalProgram_244
 
             //HeadTail.CalculatePercentage();
             //LeapYear.CheckLeapOrNot();
-            PowerOfTwo.CheckPowerOf2();
+            //PowerOfTwo.CheckPowerOf2();
+            HarmonicNumber.CalculateHarmonic();
         }
     }
 }
