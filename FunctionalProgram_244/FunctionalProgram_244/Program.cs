@@ -9,7 +9,8 @@ namespace FunctionalProgram_244
         {
             Console.WriteLine("Welcome to Functional Programming");
 
-            HeadTail.CalculatePercentage();
+            //HeadTail.CalculatePercentage();
+            LeapYear.CheckLeapOrNot();
         }
     }
 }
