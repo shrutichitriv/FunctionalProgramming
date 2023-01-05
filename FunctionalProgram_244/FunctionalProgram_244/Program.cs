@@ -13,7 +13,8 @@ namespace FunctionalProgram_244
             //LeapYear.CheckLeapOrNot();
             //PowerOfTwo.CheckPowerOf2();
             //HarmonicNumber.CalculateHarmonic();
-            Factors.factors();
+            //Factors.factors();
+            QuotientAndRemainder.CheckQuotientAndRemainder();
         }
     }
 }
