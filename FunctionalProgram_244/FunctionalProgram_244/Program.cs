@@ -10,7 +10,8 @@ namespace FunctionalProgram_244
             Console.WriteLine("Welcome to Functional Programming");
 
             //HeadTail.CalculatePercentage();
-            LeapYear.CheckLeapOrNot();
+            //LeapYear.CheckLeapOrNot();
+            PowerOfTwo.CheckPowerOf2();
         }
     }
 }
