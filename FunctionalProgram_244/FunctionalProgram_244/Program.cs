@@ -14,7 +14,8 @@ namespace FunctionalProgram_244
             //PowerOfTwo.CheckPowerOf2();
             //HarmonicNumber.CalculateHarmonic();
             //Factors.factors();
-            QuotientAndRemainder.CheckQuotientAndRemainder();
+            //QuotientAndRemainder.CheckQuotientAndRemainder();
+            Swapping.SwapTwoNos();
         }
     }
 }
