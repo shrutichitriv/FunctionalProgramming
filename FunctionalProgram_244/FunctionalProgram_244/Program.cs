@@ -16,7 +16,8 @@ namespace FunctionalProgram_244
             //Factors.factors();
             //QuotientAndRemainder.CheckQuotientAndRemainder();
             //Swapping.SwapTwoNos();
-            EvenAndOdd.CheckEvenOrOdd();
+            //EvenAndOdd.CheckEvenOrOdd();
+            VowelOrConsonant.Display();
         }
     }
 }
