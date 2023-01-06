@@ -17,7 +17,8 @@ namespace FunctionalProgram_244
             //QuotientAndRemainder.CheckQuotientAndRemainder();
             //Swapping.SwapTwoNos();
             //EvenAndOdd.CheckEvenOrOdd();
-            VowelOrConsonant.Display();
+            //VowelOrConsonant.Display();
+            LargestThreeNumber.Show();
         }
     }
 }
